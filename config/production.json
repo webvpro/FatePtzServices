@@ -1,4 +1,4 @@
 {
-  "host": "app-app.feathersjs.com",
-  "port": "PORT"
+  "host": "nodejs-mongo-fateptz-openfateptz.a3c1.starter-us-west-1.openshiftapps.com",
+  "port": "8080"
 }
