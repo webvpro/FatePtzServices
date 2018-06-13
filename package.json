@@ -3,7 +3,7 @@
   "description": "",
   "version": "0.0.0",
   "homepage": "",
-  "main": "src",
+  "main": "src/",
   "keywords": [
     "feathers"
   ],
@@ -24,6 +24,7 @@
   "scripts": {
     "test": "npm run eslint && npm run mocha",
     "eslint": "eslint src/. test/. --config .eslintrc.json",
+    "localStart": "node src/",
     "start": "node src/",
     "mocha": "mocha test/ --recursive --exit"
   },
